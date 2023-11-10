@@ -1,4 +1,4 @@
-# Softuni Programming Fundamentals With Java September 2023
+# Programming Fundamentals With Java September 2023
 
 ![programming-fundamentals-softuni](programming-fundamentals-softuni.png)
 
@@ -43,7 +43,7 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 ### Text Processing
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_10_TextProcessing/_01_Lab)
 - [Exercise]
-- [More Exercise] (https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_10_TextProcessing/_03_MoreExercise)
+- [More Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_10_TextProcessing/_03_MoreExercise)
 ### Regular Expressions
 - [Lab]
 - [Exercise]
