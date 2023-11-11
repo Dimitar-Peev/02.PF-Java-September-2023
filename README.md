@@ -54,11 +54,11 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 - [01.Programming Fundamentals Mid Exam Retake](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_01_ProgrammingFundamentalsMidExamRetake)
 - [01.Programming Fundamentals Final Exam Retake]
 - [02.Programming Fundamentals Mid Exam](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_02_ProgrammingFundamentalsMidExam)
-- [02.Programming Fundamentals Final Exam]
+- [02.Programming Fundamentals Final Exam](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_02_ProgrammingFundamentalsFinalExam)
 - [03.Programming Fundamentals Mid Exam Retake](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_03_ProgrammingFundamentalsMidExamRetake)
 - [03.Programming Fundamentals Final Exam Retake]
 - [04.Programming Fundamentals Mid Exam](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_04_ProgrammingFundamentalsMidExam)
-- [04.Programming Fundamentals Final Exam]
+- [04.Programming Fundamentals Final Exam](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_04_ProgrammingFundamentalsFinalExam)
 - [05.Programming Fundamentals Mid Exam](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_05_ProgrammingFundamentalsMidExam)
 - [05.Programming Fundamentals Final Exam]
 - [06.Programming Fundamentals Mid Exam Retake](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_06_ProgrammingFundamentalsMidExamRetake)
