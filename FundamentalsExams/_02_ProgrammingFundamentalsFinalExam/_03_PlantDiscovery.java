@@ -1,4 +1,4 @@
-package _15_FundamentalsExams._02_ProgrammingFundamentalsFinalExam;
+package FundamentalsExams._02_ProgrammingFundamentalsFinalExam;
 
 import java.util.*;
 
