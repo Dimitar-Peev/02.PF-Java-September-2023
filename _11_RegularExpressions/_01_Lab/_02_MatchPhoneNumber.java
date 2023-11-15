@@ -17,7 +17,7 @@ public class _02_MatchPhoneNumber {
         Pattern pattern = Pattern.compile(regex); 
         Matcher matcher = pattern.matcher(text); 
 
-        List<String> phoneNumbers = new ArrayList<>();
+        ArrayList<String> phoneNumbers = new ArrayList<>();
         while (matcher.find()) {
             phoneNumbers.add(matcher.group());
         }
