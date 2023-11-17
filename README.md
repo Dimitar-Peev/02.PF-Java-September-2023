@@ -60,7 +60,7 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 - [04.Programming Fundamentals Mid Exam](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_04_ProgrammingFundamentalsMidExam)
 - [04.Programming Fundamentals Final Exam](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_04_ProgrammingFundamentalsFinalExam)
 - [05.Programming Fundamentals Mid Exam](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_05_ProgrammingFundamentalsMidExam)
-- [05.Programming Fundamentals Final Exam](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_05_ProgrammingFundamentalsFinal%20Exam)
+- [05.Programming Fundamentals Final Exam](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_05_ProgrammingFundamentalsFinalExam)
 - [06.Programming Fundamentals Mid Exam Retake](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_06_ProgrammingFundamentalsMidExamRetake)
 
 
