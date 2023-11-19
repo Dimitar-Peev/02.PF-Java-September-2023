@@ -47,7 +47,7 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 ### Regular Expressions
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_11_RegularExpressions/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_11_RegularExpressions/_02_Exercise)
-- [More Exercise]
+- [More Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_11_RegularExpressions/_03_MoreExercise)
 
 
 ## Exams
