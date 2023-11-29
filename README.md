@@ -28,7 +28,7 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 - [More Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_04_Methods/_03_MoreExercise)
 ### Lists
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_05_List/_01_Lab)
-- [Exercise]
+- [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_05_List/_02_Exercise)
 - [More Exercise]
 ### Bitwise Operations
 - [Lab]
