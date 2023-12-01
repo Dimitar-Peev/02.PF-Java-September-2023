@@ -21,7 +21,7 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 ### Arrays
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_03_Arrays/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_03_Arrays/_02_Exercise)
-- [More Exercise]
+- [More Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_03_Arrays/_03_MoreExercise)
 ### Methods
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_04_Methods/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_04_Methods/_02_Exercise)
