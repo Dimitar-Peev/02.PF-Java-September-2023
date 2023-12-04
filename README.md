@@ -35,7 +35,7 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 ### Objects and Classes
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_08_ObjectsAndClasses/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_08_ObjectsAndClasses/_02_Exercise)
-- [More Exercise]
+- [More Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_08_ObjectsAndClasses/_03_MoreExercise)
 ### Associative Arrays
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_09_AssociativeArrays/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_09_AssociativeArrays/_02_Exercise)
