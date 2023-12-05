@@ -1,12 +1,12 @@
 package _08_ObjectsAndClasses._01_Lab;
 
-import java.util.Random;
-import java.util.Scanner;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class _01_RandomizeWords {
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner (System.in);
+        Scanner scanner = new Scanner(System.in);
 
         List<String> words = Arrays.stream(scanner.nextLine().split(" ")).collect(Collectors.toList());
 
@@ -16,5 +16,6 @@ public class _01_RandomizeWords {
             String word = words.remove(rdm.nextInt(words.size()));
             System.out.println(word);
         }
+
     }
 }
