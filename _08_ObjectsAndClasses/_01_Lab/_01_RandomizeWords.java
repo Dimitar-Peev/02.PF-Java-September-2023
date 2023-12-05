@@ -8,19 +8,13 @@ public class _01_RandomizeWords {
 
         Scanner scanner = new Scanner (System.in);
 
-        String[] wordsArr = scanner.nextLine().split(" ");
+        List<String> words = Arrays.stream(scanner.nextLine().split(" ")).collect(Collectors.toList());
 
-        Random randomObj = new Random();
+        Random rdm = new Random();
 
-        for (int i = 0; i < wordsArr.length; i++) {
-            int rndIndexX = randomObj.nextInt(wordsArr.length);
-            int rndIndexY = randomObj.nextInt(wordsArr.length);
-
-            String oldWord = wordsArr[rndIndexX];
-            wordsArr[rndIndexX] = wordsArr[rndIndexY];
-            wordsArr[rndIndexY] = oldWord;
+        while (!words.isEmpty()) {
+            String word = words.remove(rdm.nextInt(words.size()));
+            System.out.println(word);
         }
-
-        System.out.println(String.join(System.lineSeparator(), wordsArr));
     }
 }
