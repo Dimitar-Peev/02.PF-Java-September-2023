@@ -65,4 +65,4 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 
 
 ## Certificates
-[Programming Fundamentals Certificate]
+[Programming Fundamentals Certificate](https://softuni.bg/certificates/details/195140/4b98aaf6)
