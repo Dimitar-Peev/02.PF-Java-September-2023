@@ -7,25 +7,27 @@ import java.util.regex.Pattern;
 public class _02_RageQuit {
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
 
-        String input = scanner.nextLine();
-
-        String regex = "(?<word>[\\D]*)(?<times>\\d+)";
+        String input = scan.nextLine();
+        String regex = "(?<char>[^\\d]+)(?<digit>\\d+)";
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(input);
+      
+        StringBuilder sb = new StringBuilder();
 
-        StringBuilder strBuilder = new StringBuilder();
         while (matcher.find()) {
-            String word = matcher.group("word").toUpperCase();
-            int n = Integer.parseInt(matcher.group("times"));
+            String chars = matcher.group("char");
+            int digit = Integer.parseInt(matcher.group("digit"));
 
-            for (int i = 0; i < n; i++) {
-                strBuilder.append(word);
+            if (digit != 0) {
+                for (int i = 0; i < digit; i++) {
+                    sb.append(chars.toUpperCase());
+                }
             }
         }
-
-        System.out.printf("Unique symbols used: %d%n", strBuilder.chars().distinct().count());
-        System.out.println(strBuilder);
+		
+        System.out.println(String.format("Unique symbols used: %d", sb.chars().distinct().count()));
+        System.out.println(sb);
     }
 }
