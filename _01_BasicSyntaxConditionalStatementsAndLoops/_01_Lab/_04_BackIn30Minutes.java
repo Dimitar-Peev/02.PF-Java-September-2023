@@ -16,11 +16,8 @@ public class _04_BackIn30Minutes {
 
         if (returnHours > 23) {
             returnHours = 0;
-            System.out.printf("%d:%02d", returnHours, returnMinutes);
-        } else {
-            System.out.printf("%d:%02d", returnHours, returnMinutes);
-        }
-
-
+        } 
+		
+        System.out.printf("%d:%02d", returnHours, returnMinutes);
     }
 }
