@@ -10,14 +10,16 @@ public class _04_PrintAndSum {
         int startNumber = Integer.parseInt(scanner.nextLine()); 
         int endNumber = Integer.parseInt(scanner.nextLine()); 
 
-        int sum = 0; 
+        int sum = 0;
 
-        for (int number = startNumber; number <= endNumber; number++) {
-            System.out.print(number + " ");
-            sum += number; 
+        while (startNumber <= endNumber) {
+            System.out.print(startNumber + " ");
+            sum += startNumber;
+            startNumber += 1;
+
         }
 
-        System.out.printf("\nSum: " + sum);
+        System.out.printf("%nSum: " + sum);
 
     }
 }
