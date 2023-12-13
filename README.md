@@ -19,7 +19,7 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_02_DataTypesAndVariables/_02_Exercise)
 - [More Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_02_DataTypesAndVariables/_03_MoreExercise)
 ### HTML & CSS Basics 
-- [Lab]
+- [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/HTML%20and%20CSS%20Basics)
 ### Arrays
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_03_Arrays/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_03_Arrays/_02_Exercise)
