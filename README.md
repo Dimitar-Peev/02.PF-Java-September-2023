@@ -31,7 +31,7 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 ### Lists
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_05_List/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_05_List/_02_Exercise)
-- [More Exercise]
+- [More Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_05_List/_03_MoreExercise)
 ### Bitwise Operations
 - [Lab]
 ### Objects and Classes
