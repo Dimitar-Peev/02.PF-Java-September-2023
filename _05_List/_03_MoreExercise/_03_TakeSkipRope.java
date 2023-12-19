@@ -9,9 +9,9 @@ import java.util.stream.Collectors;
 public class _03_TakeSkipRope {
     public static void main(String[] args) {
 
-        Scanner scan = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
-        List<Character> text = Arrays.stream(scan.nextLine().split("")).map(a -> a.charAt(0)).collect(Collectors.toList());
+        List<Character> text = Arrays.stream(scanner.nextLine().split("")).map(a -> a.charAt(0)).collect(Collectors.toList());
 
         ArrayList<String> nonNumbers = new ArrayList<>();
         ArrayList<Integer> numbers = new ArrayList<>();
