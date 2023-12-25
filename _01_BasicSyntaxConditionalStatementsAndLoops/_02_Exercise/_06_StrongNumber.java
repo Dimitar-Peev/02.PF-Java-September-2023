@@ -7,30 +7,23 @@ public class _06_StrongNumber {
 
         Scanner scanner = new Scanner(System.in);
 
-        int number = Integer.parseInt(scanner.nextLine());
-        int numberForCompare = number;
+        String input = scanner.nextLine();
 
-        String numberString = number + "";
-        int aloneNum = 0;
+        int sumFactorials = 0;
 
-        int sumFactoriel = 0;
+        for (int i = 0; i < input.length(); i++) {
+            int digit = input.charAt(i) - 48;
 
-        for (int i = 0; i < numberString.length(); i++) {
-            int firstResult = 1;
-            aloneNum = number % 10;
-            number /= 10;
-            for (int j = aloneNum; j > 0 ; j--) {
-                firstResult = firstResult * j;
+            int factorial = 1;
+            for (int j = 1; j <= digit; j++) {
+                factorial = factorial * j;
             }
 
-            sumFactoriel += firstResult;
+            sumFactorials += factorial;
         }
 
+        String result = sumFactorials == Integer.parseInt(input) ? "yes" : "no";
+        System.out.println(result);
 
-        if (sumFactoriel == numberForCompare) { 
-            System.out.println("yes");
-        } else {
-            System.out.println("no");
-        }
     }
 }
