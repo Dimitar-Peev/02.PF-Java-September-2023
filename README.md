@@ -14,10 +14,14 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_01_BasicSyntaxConditionalStatementsAndLoops/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_01_BasicSyntaxConditionalStatementsAndLoops/_02_Exercise)
 - [More Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_01_BasicSyntaxConditionalStatementsAndLoops/_03_MoreExercise)
+### Git and GitHub
+- [Lab]
 ### Data Types and Variables
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_02_DataTypesAndVariables/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_02_DataTypesAndVariables/_02_Exercise)
 - [More Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_02_DataTypesAndVariables/_03_MoreExercise)
+### HTTP Basics
+- [Lab]
 ### Arrays
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_03_Arrays/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_03_Arrays/_02_Exercise)
@@ -28,20 +32,24 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_04_Methods/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_04_Methods/_02_Exercise)
 - [More Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_04_Methods/_03_MoreExercise)
+### Bitwise Operations
+- [Lab]
 ### Lists
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_05_List/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_05_List/_02_Exercise)
 - [More Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_05_List/_03_MoreExercise)
-### Bitwise Operations
-- [Lab]
 ### Objects and Classes
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_08_ObjectsAndClasses/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_08_ObjectsAndClasses/_02_Exercise)
 - [More Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_08_ObjectsAndClasses/_03_MoreExercise)
+### Database Basics
+- [Lab]
 ### Associative Arrays
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_09_AssociativeArrays/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_09_AssociativeArrays/_02_Exercise)
 - [More Exercise]
+### QA Introduction
+- [Lab]
 ### Text Processing
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_10_TextProcessing/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_10_TextProcessing/_02_Exercise)
@@ -50,7 +58,8 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 - [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_11_RegularExpressions/_01_Lab)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_11_RegularExpressions/_02_Exercise)
 - [More Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_11_RegularExpressions/_03_MoreExercise)
-
+### Basic Web Project
+- [Lab]
 
 ## Exams
 - [01.Programming Fundamentals Mid Exam Retake](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_01_ProgrammingFundamentalsMidExamRetake)
