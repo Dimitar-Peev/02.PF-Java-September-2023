@@ -24,14 +24,10 @@ public class _02_ShootForTheWin {
                     registerTargetHit(targets, shotTarget);
                 }
             }
-
-
             command = scanner.nextLine();
         }
-
         System.out.printf("Shot targets: %d -> ", totalShot);
         printArray(targets, " ");
-
     }
 
     private static void registerTargetHit(int[] targets, int shotTarget) {
