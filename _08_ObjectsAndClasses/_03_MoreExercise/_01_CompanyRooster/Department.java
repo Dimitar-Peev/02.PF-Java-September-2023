@@ -17,7 +17,7 @@ public class Department {
     }
 
     public List<Employee> getEmployeeList() {
-        return Collections.unmodifiableList(this.employeeList);
+        return this.employeeList;
     }
 
     public double getAverageSalary() {
