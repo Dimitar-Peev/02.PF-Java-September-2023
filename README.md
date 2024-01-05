@@ -59,7 +59,7 @@ To learn more about the course you can check [Softuni](https://softuni.bg/)
 - [Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_11_RegularExpressions/_02_Exercise)
 - [More Exercise](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/_11_RegularExpressions/_03_MoreExercise)
 ### Basic Web Project
-- [Lab]
+- [Lab](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/Basic%20Web%20Project/phonebook)
 
 ## Exams
 - [01.Programming Fundamentals Mid Exam Retake](https://github.com/Dimitar-Peev/02.PF-Java-September-2023/tree/main/FundamentalsExams/_01_ProgrammingFundamentalsMidExamRetake)
