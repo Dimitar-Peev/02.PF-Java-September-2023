@@ -11,39 +11,45 @@ public class _04_LongestIncreasingSubsequence {
         int[] numsArray = Arrays.stream(scanner.nextLine().split(" "))
                 .mapToInt(Integer::parseInt).toArray();
 
-        int maxLength = 0;
-        int lastIndex = -1;
-        int[] length = new int[numsArray.length];
-        int[] previous = new int[numsArray.length];
+        int[] lisLength = new int[numsArray.length];
+        int[] lisPrevious = new int[numsArray.length];
 
-        for (int i = 0; i < numsArray.length; i++) {
-            length[i] = 1;
-            previous[i] = -1;
+        for (int i = 0; i < lisLength.length; i++) {
+            lisLength[i] = 1;
+            lisPrevious[i] = -1;
+        }
 
-            for (int j = 0; j < i; j++) {
-                if (numsArray[j] < numsArray[i] && length[j] + 1 > length[i]) {
-                    length[i] = length[j] + 1;
-                    previous[i] = j;
+        for (int currentIndex = 0; currentIndex < numsArray.length; currentIndex++) {
+            for (int prevIndex = 0; prevIndex < currentIndex; prevIndex++) {
+                if (numsArray[prevIndex] < numsArray[currentIndex]) {
+                    int newLength = lisLength[prevIndex] + 1;
+                    if (newLength > lisLength[currentIndex]) {
+                        lisLength[currentIndex] = newLength;
+                        lisPrevious[currentIndex] = prevIndex;
+                    }
                 }
             }
+        }
 
-            if (length[i] > maxLength) {
-                maxLength = length[i];
-                lastIndex = i;
+        int maxLength = 0;
+        int maxLengthIndex = -1;
+        for (int i = 0; i < lisLength.length; i++) {
+            if (lisLength[i] > maxLength) {
+                maxLength = lisLength[i];
+                maxLengthIndex = i;
             }
         }
 
-        int[] LIS = new int[maxLength];
-        int currentIndex = maxLength - 1;
-
-        while (lastIndex != -1) {
-            LIS[currentIndex] = numsArray[lastIndex];
-            currentIndex--;
-            lastIndex = previous[lastIndex];
+        int index = maxLengthIndex;
+        int[] lis = new int[maxLength];
+        int pos = 0;
+        while (index != -1) {
+            lis[pos++] = numsArray[index];
+            index = lisPrevious[index];
         }
 
-        for (int nums : LIS) {
-            System.out.print(nums + " ");
+        for (int i = lis.length - 1; i >= 0; i--) {
+            System.out.print(lis[i] + " ");
         }
 
     }
